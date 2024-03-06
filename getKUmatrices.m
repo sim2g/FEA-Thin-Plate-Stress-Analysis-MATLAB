@@ -1,6 +1,5 @@
 %-------------------------------------------------------------------------
 %                      getKUmatrices.m
-%                      Michael Dodman
 %                      January 2022
 %
 %  This function calculates the global element stiffness matrices, nodal

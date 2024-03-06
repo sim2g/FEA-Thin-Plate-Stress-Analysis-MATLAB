@@ -1,6 +1,5 @@
 %-------------------------------------------------------------------------
 %                      evalStrain.m
-%                      Michael Dodman
 %                      January 2022
 %
 % This function plots the deformed and undeformed plate overlayed on each

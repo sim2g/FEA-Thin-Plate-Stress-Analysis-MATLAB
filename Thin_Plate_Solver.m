@@ -1,6 +1,5 @@
 %-------------------------------------------------------------------------
 %                      Thin_Plate_Solver.m
-%                      Michael Dodman
 %                      January 2022
 %
 % This is the main script where the  boundary conditions for both the 3-
