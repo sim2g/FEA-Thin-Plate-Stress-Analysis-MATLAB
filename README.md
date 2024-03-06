@@ -1,2 +1,4 @@
 # FEA-Thin-Plate-Stress-Analysis-MATLAB
-<img src="MATLAB_Deformation-1.png" alt="graph" width="300"/>
+<p align="center">
+  <img src="MATLAB_Deformation-1.png" alt="Sublime's custom image"/>
+</p>
