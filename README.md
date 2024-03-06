@@ -3,6 +3,8 @@
 ## Description
 A finite element analysis (FEA) program to solve for displacement and strain of a thin plate in plane stress, using both 3-noded and 6-noded triangular elements. The results of this program are validated using ANSYS Mechanical APDL.
 
+A short communication of this project is included in the Project Resources folder.
+
 
 <p align="center">
   <img src="./Project Resources/MATLAB_Deformation.png" alt="graph" width="600"/>
