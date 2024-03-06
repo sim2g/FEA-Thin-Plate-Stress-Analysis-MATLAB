@@ -1,2 +1,2 @@
 # FEA-Thin-Plate-Stress-Analysis-MATLAB
-![alt text](MATLAB_Deformation.png)
+<img src="MATLAB_Deformation-1.png" alt="graph" width="300"/>
