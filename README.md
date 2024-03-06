@@ -1,4 +1,4 @@
 # FEA-Thin-Plate-Stress-Analysis-MATLAB
 <p align="center">
-  <img src="MATLAB_Deformation.png" alt="graph" width="600"/>
+  <img src="./Project Resources/MATLAB_Deformation.png" alt="graph" width="600"/>
 </p>
